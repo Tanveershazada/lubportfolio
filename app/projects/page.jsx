@@ -7,7 +7,7 @@ const projectData = [
   {
     image: "/work/3.png",
     category: "Fullstack",
-    name: "Gain Strom",
+    name: "Gain Strom",   
     description:
       "Lorem ipsum, dolor sit amet consectetur.",
     link: "/",
